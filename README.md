@@ -1,64 +1,97 @@
-### Hi there 👋, I'm Jathukulan!
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%">
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Jathukulann">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=31F7A7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Jathukulan!+%F0%9F%91%8B;Full-Stack+Developer;Java+%26+Python+Enthusiast;Cloud+%26+Microservices+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a Computer Science Undergraduate at the University of Colombo School of Computing, passionate about full-stack development and building scalable, cloud-native applications that solve real-world problems.
+I'm a **Computer Science Undergraduate** at the University of Colombo School of Computing, passionate about building scalable, cloud-native applications that solve real-world problems. My goal is to leverage my skills in full-stack development and my curiosity for AI to create impactful software.
 
-- 🔭 I’m currently building **Alphintra**, a cloud-native algorithmic trading platform with a no-code strategy builder.
-- 🌱 I’m currently learning more about **Microservice Architecture and advanced CI/CD pipelines**.
-- 💬 Ask me about: **Java, Python, Spring Boot, React, and Docker**.
+- 🔭 I’m currently building **Alphintra**, a cloud-native algorithmic trading platform.
+- 🌱 I’m currently learning more about **Microservice Architecture** and **advanced CI/CD pipelines**.
+- 💬 Ask me about **Java, Python, Spring Boot, React, and Docker**.
 
+<br>
 
----
-#### Connect with me:
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/jathukulan-sivanathan-a49688229/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:sjmeansme@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
+  <a href="mailto:sjmeansme@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-### 🚀 Key Projects
-- **[Alphintra](https://github.com/your-repo/alphintra)**: A cloud-native algorithmic trading platform with no-code strategy building. Built with Python, FastAPI, Next.js, and Docker. (Ongoing)
-- **[Vinnagam](https://github.com/Jathukulan/Vinnagam)**: Freelance guest house booking system using TypeScript, Next.js, and AWS for scalable reservations.
-- **[Free-Write](https://github.com/tharindu-dm/Free-Write)**: Collaborative writing platform developed in a team, focusing on MVC architecture and Azure SQL.
+---
 
+### 🛠️ My Tech Stack
+*A collection of the primary tools and technologies I use in my projects.*
 
-### My Tech Stack
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-languages">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#-backend">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#-languages">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#-frontend">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center" width="96">
+      <a href="#-frontend">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#-databases">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#-devops--tools">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-A collection of the primary tools and technologies I use in my projects.
+---
 
-**Languages:**
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+### 📊 My GitHub Stats
+*A data-driven look at my activity.*
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jathukulann&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathukulann&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-**Frameworks & Libraries:**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-</p>
-
-**Databases:**
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
-
-**DevOps & Tools:**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jathukulann&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
