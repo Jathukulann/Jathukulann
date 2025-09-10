@@ -7,9 +7,23 @@ I'm a Computer Science Undergraduate at the University of Colombo School of Comp
 - 🔭 I’m currently building **Alphintra**, a cloud-native algorithmic trading platform with a no-code strategy builder.
 - 🌱 I’m currently learning more about **Microservice Architecture and advanced CI/CD pipelines**.
 - 💬 Ask me about: **Java, Python, Spring Boot, React, and Docker**.
-- 📫 How to reach me: **sjmeansme@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/jathukulan-sivanathan-a49688229/)**.
+
 
 ---
+#### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/jathukulan-sivanathan-a49688229/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="mailto:sjmeansme@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
+  </a>
+</p>
+
+### 🚀 Key Projects
+- **[Alphintra](https://github.com/your-repo/alphintra)**: A cloud-native algorithmic trading platform with no-code strategy building. Built with Python, FastAPI, Next.js, and Docker. (Ongoing)
+- **[Vinnagam](https://github.com/Jathukulan/Vinnagam)**: Freelance guest house booking system using TypeScript, Next.js, and AWS for scalable reservations.
+- **[Free-Write](https://github.com/tharindu-dm/Free-Write)**: Collaborative writing platform developed in a team, focusing on MVC architecture and Azure SQL.
 
 
 ### My Tech Stack
