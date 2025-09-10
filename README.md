@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Jathukulan!
-<p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Software Engineering Banner">
-</p>
 
----
 ---
 
 I'm a Computer Science Undergraduate at the University of Colombo School of Computing, passionate about full-stack development and building scalable, cloud-native applications that solve real-world problems.
